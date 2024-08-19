@@ -1,0 +1,6 @@
+[{"id":1,"name":"HTML","description":"Lorem ipsum dolor sit amet","duration":"120 ","CategoryId":1},
+{"id":2,"name":"CSS","description":"Sed do eiusmod tempor incididunt","duration":"180","CategoryId":1},
+{"id":3,"name":"Basic Javascript","description":"Lorem ipsum dolor sit amet","duration":"120","CategoryId":2},
+{"id":4,"name":"Express","description":"Ut labore et dolore magna aliqua","duration":"180","CategoryId":2},
+{"id":5,"name":"Advanced Javascript","description":"Sed do eiusmod tempor incididunt","duration":"45 ","CategoryId":3},
+{"id":5,"name":"Ruby","description":"Sed do eiusmod tempor incididunt","duration":"45 ","CategoryId":3}]
